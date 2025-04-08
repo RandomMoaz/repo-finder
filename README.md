@@ -20,7 +20,7 @@ Welcome to **Repo Finder**! This web application allows you to discover GitHub r
 - **Frontend:** HTML, SCSS, JavaScript
 - **API:** GitHub Search API
 
-## live server 🌐
+## 🌐 live server 
 http://localhost:5173/
 
 
